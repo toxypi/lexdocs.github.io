@@ -19,9 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Lexbor
-domain: lexdocs.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://lexdocs.github.io"
+domain: toxypi.github.io
+baseurl: "/lexdocs.github.io" # the subpath of your site, e.g. /blog
+url: "https://toxypi.github.io/lexdocs.github.io"
 github_username:  toxypi
 
 # Build settings
