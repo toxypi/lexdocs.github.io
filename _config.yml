@@ -25,7 +25,7 @@ url: "https://toxypi.github.io/lexdocs.github.io"
 github_username:  toxypi
 
 # Build settings
-theme: jekyll-theme-minima
+theme: minima
 plugins:
   - jekyll-feed
 
