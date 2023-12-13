@@ -24,10 +24,11 @@ baseurl: "/lexdocs.github.io" # the subpath of your site, e.g. /blog
 url: "https://toxypi.github.io/lexdocs.github.io"
 github_username:  toxypi
 
+
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
+- jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Part Two: CSS
+title: Part Two - CSS
 permalink: /part-2-css/
 ---
 
