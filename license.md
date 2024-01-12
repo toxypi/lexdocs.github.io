@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: default
 title: License
 permalink: /license/
+toc: false
 ---
 
 ## License

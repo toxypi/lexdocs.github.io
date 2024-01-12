@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: default
 title: Roadmap
 permalink: /roadmap/
+toc: false
 ---
 
 ## Roadmap
@@ -19,8 +20,8 @@ in order of their implementation.
 
 If status is not given, the work hasn't started yet.
 
-[done]: img/done.svg
-[progress]: img/in_progress.svg
+[done]: ../img/done.svg
+[progress]: ../img/in_progress.svg
 
 
 ### DOM

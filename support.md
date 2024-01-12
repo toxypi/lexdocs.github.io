@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: default
 title: Support
 permalink: /support/
+toc: false
 ---
 
 ## Support

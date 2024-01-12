@@ -15,7 +15,6 @@ gem "jekyll", "~> 3.9.3"
 gem "minima"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -32,7 +31,8 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
-
 gem "webrick", "~> 1.8"
 
 gem "kramdown-parser-gfm", "~> 1.1"
+
+gem "jekyll-toc"
