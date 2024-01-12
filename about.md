@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: default-notoc
 title: About
 permalink: /
-toc: false
 ---
 
 # What is lexbor?

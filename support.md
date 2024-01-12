@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: default-notoc
 title: Support
 permalink: /support/
-toc: false
 ---
 
 ## Support

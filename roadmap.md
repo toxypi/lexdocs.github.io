@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: default-notoc
 title: Roadmap
 permalink: /roadmap/
-toc: false
 ---
 
 ## Roadmap

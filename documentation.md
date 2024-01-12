@@ -2,7 +2,6 @@
 layout: default
 title: Documentation
 permalink: /documentation/
-toc: true
 ---
 
 

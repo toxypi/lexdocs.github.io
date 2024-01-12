@@ -28,7 +28,6 @@ github_username:  toxypi
 # Build settings
 theme: minima
 plugins:
-- jekyll-toc
 - jekyll-feed
 
 header_pages: ['about.md', 'download.md', 'documentation.md', 'support.md', 'license.md', 'roadmap.md']

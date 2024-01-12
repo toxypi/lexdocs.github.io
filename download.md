@@ -2,7 +2,6 @@
 layout: default
 title: Download
 permalink: /download/
-toc: true
 ---
 
 ## Binary packages

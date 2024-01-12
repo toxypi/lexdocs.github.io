@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: default-notoc
 title: License
 permalink: /license/
-toc: false
 ---
 
 ## License
